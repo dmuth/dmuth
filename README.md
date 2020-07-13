@@ -14,8 +14,12 @@ Welcome to my GitHub repo!  This is mostly for personal projects that I've worke
 
 Other ways to find me:
 - [Blog](https://www.dmuth.org/)
+- [LinkedIn](https://www.linkedin.com/in/dmuth/)
 - [Twitter](https://twitter.com/dmuth)
 - [Facebook](https://www.facebook.com/dmuth)
+- [YouTube](https://www.youtube.com/user/dmuth)
+- [Flickr](https://www.flickr.com/photos/dmuth/)
+- [All About Cheetahs](http://www.allaboutcheetahs.info/)
 
 <!--
 **dmuth/dmuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
