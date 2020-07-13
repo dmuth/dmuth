@@ -19,7 +19,7 @@ Other ways to find me:
 - [Facebook](https://www.facebook.com/dmuth)
 - [YouTube](https://www.youtube.com/user/dmuth)
 - [Flickr](https://www.flickr.com/photos/dmuth/)
-- [All About Cheetahs](http://www.allaboutcheetahs.info/)
+- [All About Cheetahs! #CheetahFacts](http://www.allaboutcheetahs.info/)
 
 <!--
 **dmuth/dmuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
