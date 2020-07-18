@@ -11,15 +11,8 @@ Welcome to my GitHub repo!  This is mostly for personal projects that I've worke
 - [Splunk Network Health Check](https://github.com/dmuth/splunk-network-health-check) - A network health checking that I built.  Uses [Splunk Lab](https://github.com/dmuth/splunk-lab).
 - [Is SEPTA F\*cked?](https://github.com/dmuth/IsSeptaFcked) - Slightly more... colorful status website for Philadelphia public transit.  Visit the Production Website [here](http://www.isseptafucked.com/).
 
+You can also visit my [Blog](https://www.dmuth.org/), [LinkedIn](https://www.linkedin.com/in/dmuth/), [Twitter](https://twitter.com/dmuth), or [Facebook](https://www.facebook.com/dmuth) if you'd like to say hello.
 
-Other ways to find me:
-- [Blog](https://www.dmuth.org/)
-- [LinkedIn](https://www.linkedin.com/in/dmuth/)
-- [Twitter](https://twitter.com/dmuth)
-- [Facebook](https://www.facebook.com/dmuth)
-- [YouTube](https://www.youtube.com/user/dmuth)
-- [Flickr](https://www.flickr.com/photos/dmuth/)
-- [All About Cheetahs! #CheetahFacts](http://www.allaboutcheetahs.info/)
 
 <!--
 **dmuth/dmuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
