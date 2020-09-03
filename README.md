@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-he/him
-28% cheetah
+- he/him
+- 28% cheetah
+- [#BlackLivesMatter](https://github.com/SierraSoftworks/blmain)
 
 Welcome to my GitHub repo!  This is mostly for personal projects that I've worked on over the years.  Sometimes it's to learn a new technology, sometimes it's to contribute something to a particular space.  Here are my more interested projects that you may wish to check out:
 - [Diceware](https://github.com/dmuth/diceware) - Generate passwords you can easily remember!  Visit the Production App [here](https://diceware.dmuth.org/).
