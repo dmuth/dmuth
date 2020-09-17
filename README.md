@@ -13,7 +13,7 @@ Welcome to my GitHub repo!  This is mostly for personal projects that I've worke
 - [ZFS Playground](https://github.com/dmuth/zfs-playground) - Learn ZFS, the quick and easy way!
 - [WordPress with Nginx and Let's Encrypt](https://github.com/dmuth/wordpress-with-nginx-and-letsencrypt) - Collection of config to stand up WordPress with Nginx, MySQL, and Let's Encrypt. The blog post explaining all of this [is over here](https://www.dmuth.org/wordpress-5-in-docker-with-nginx-and-letsencrypt/).
 - [Septa Stats](https://github.com/dmuth/SeptaStats) - Realtime dashboards and graphs of Philadelphia public transit. Visit the Production Website [here](https://septastats.com/).
-- [Splunk Network Health Check](https://github.com/dmuth/splunk-network-health-check) - A network health checking that I built.  Uses [Splunk Lab](https://github.com/dmuth/splunk-lab).
+- [Splunk Network Health Check](https://github.com/dmuth/splunk-network-health-check) - A network health checking that I built.  Uses [Splunk Lab](https://github.com/dmuth/splunk-lab) and [a hacked version of ping](https://github.com/dmuth/iputils)(!)
 - [Is SEPTA F\*cked?](https://github.com/dmuth/IsSeptaFcked) - Slightly more... colorful status website for Philadelphia public transit.  Visit the Production Website [here](http://www.isseptafucked.com/).
 
 You can also visit my [Blog](https://www.dmuth.org/), [LinkedIn](https://www.linkedin.com/in/dmuth/), [Twitter](https://twitter.com/dmuth), or [Facebook](https://www.facebook.com/dmuth) if you'd like to say hello.
