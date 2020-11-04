@@ -7,7 +7,7 @@
 
 Welcome to my GitHub repo!  This is mostly for personal projects that I've worked on over the years.  Sometimes it's to learn a new technology, sometimes it's to contribute something to a particular space.  Here are my more interested projects that you may wish to check out:
 
-- [Splunk Lab](https://github.com/dmuth/splunk-lab) - Stand up Splunk in 30 seconds!  It's a great way to learn Splunk, ingest sample data, etc. Includes the Maching Learning app.
+- [Splunk Lab](https://github.com/dmuth/splunk-lab) - Stand up Splunk in 30 seconds!  It's a great way to learn Splunk, ingest sample data, etc. Includes the Machine Learning app.
 - [Diceware](https://github.com/dmuth/diceware) - Generate passwords you can easily remember!  Visit the Production App [here](https://diceware.dmuth.org/).
 - [Learn "git rebase -i" with this lab/playground](https://github.com/dmuth/git-rebase-i-playground) - A tool I built to teach myself Interactive Rebasing in Git. Used for [the talk I give here.](https://docs.google.com/presentation/d/11_FkYuEFeRtqjRF_BVzsHYOH5b89Psn9phH5BLWrKV4/edit?usp=sharing)
 - [ZFS Playground](https://github.com/dmuth/zfs-playground) - Learn ZFS, the quick and easy way!
