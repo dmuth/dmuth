@@ -35,7 +35,5 @@ Welcome to my GitHub repo!  This is mostly for personal projects that I've worke
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmuth&show_icons=true&locale=en&layout=compact" alt="dmuth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmuth&show_icons=true&locale=en" alt="dmuth" /></p>
-
 A good chunk of this intro created with the <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GitHub Profile README Generator</a>
 
