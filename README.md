@@ -14,6 +14,7 @@ Welcome to my GitHub repo!  This is mostly for personal projects that I've worke
 - [Septa Stats](https://github.com/dmuth/SeptaStats) - Realtime dashboards and graphs of Philadelphia public transit. Visit the Production Website [here](https://septastats.com/).
 - [Splunk Network Health Check](https://github.com/dmuth/splunk-network-health-check) - A network health checking that I built.  Uses [Splunk Lab](https://github.com/dmuth/splunk-lab) and [a hacked version of ping](https://github.com/dmuth/iputils)(!)
 - [Is SEPTA F\*cked?](https://github.com/dmuth/IsSeptaFcked) - Slightly more... colorful status website for Philadelphia public transit.  Visit the Production Website [here](http://www.isseptafucked.com/).
+- [Tarsplit](https://github.com/dmuth/tarsplit) - Split up tarballs on file boundaries to more easily use large tarballs in Docker images.
 
 
 <h3 align="left">Connect with me:</h3>
