@@ -9,7 +9,7 @@ Welcome to my GitHub repo!  This is mostly for personal projects that I've worke
 - [Grafana Playground](https://github.com/dmuth/grafana-playground) - Spin up a Grafana instance with Prometheus and Loki for testing quickly and painlessly.
 - [Cheetah Bot](https://github.com/dmuth/cheetah-bot) - A Telegram Bot that makes cheetah sounds and posts cheetah pictures!
 - [Diceware](https://github.com/dmuth/diceware) - Generate passwords you can easily remember!  Visit the Production deployment [here](https://diceware.dmuth.org/).
-- [Undertale and Deltarune Resources 🌻](https://github.com/dmuth/undertale-deltarune-resources)
+- [Undertale and Deltarune Resources 🌻](https://github.com/dmuth/undertale-deltarune-resources) - A list of links of interest for Undertale and Deltarune
 - [Learn "git rebase -i" with this lab/playground](https://github.com/dmuth/git-rebase-i-playground) - A tool I built to teach myself Interactive Rebasing in Git. Used for [the talk I give here.](https://docs.google.com/presentation/d/11_FkYuEFeRtqjRF_BVzsHYOH5b89Psn9phH5BLWrKV4/edit?usp=sharing)
 - [ZFS Playground](https://github.com/dmuth/zfs-playground) - Learn ZFS, the quick and easy way!
 - [WordPress with Nginx and Let's Encrypt](https://github.com/dmuth/wordpress-with-nginx-and-letsencrypt) - Collection of config to stand up WordPress with Nginx, MySQL, and Let's Encrypt. The blog post explaining all of this [is over here](https://www.dmuth.org/wordpress-5-in-docker-with-nginx-and-letsencrypt/).
