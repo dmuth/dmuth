@@ -3,7 +3,11 @@
 
 ## he/him / Philadelphia, PA, USA / 28% cheetah / [#BlackLivesMatter](https://github.com/SierraSoftworks/blmain)
 
-Welcome to my GitHub repo!  This is mostly for personal projects that I've worked on over the years.  Sometimes it's to learn a new technology, sometimes it's to contribute something to a particular space, sometimes it's just #CodePosting where I try something new.  Here are my more interested projects that you may wish to check out:
+Welcome to my GitHub repo!  This is mostly for personal projects that I've worked on over the years.  Sometimes it's to learn a new technology, sometimes it's to contribute something to a particular space, sometimes it's just #CodePosting where I try something new. 
+
+If you like my work, [please consider sponsoring me](https://github.com/sponsors/dmuth).
+
+Here are my more interesting projects that you may wish to check out:
 
 - [Splunk Lab](https://github.com/dmuth/splunk-lab) - Stand up Splunk in 30 seconds!  It's a great way to learn Splunk, ingest sample data, etc. Includes the Machine Learning app.
 - [Grafana Playground](https://github.com/dmuth/grafana-playground) - Spin up a Grafana instance with Prometheus and Loki for testing quickly and painlessly.
