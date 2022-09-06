@@ -9,7 +9,7 @@ If you like my work, [please consider sponsoring me](https://github.com/sponsors
 
 Here are my more interesting projects that you may wish to check out:
 
-- [FastAPI Httpbin](https://httpbin.dmuth.org/) - HTTP endpoints for testing.  Heavily inspired by the original Httpbin project, which sadly seems to be no longer maintained.
+- [FastAPI Httpbin](https://httpbin.dmuth.org/) - HTTP endpoints for testing.  Heavily inspired by the original Httpbin project, with a few ideas of my own added in.
 - [Splunk Lab](https://github.com/dmuth/splunk-lab) - Stand up Splunk in 30 seconds!  It's a great way to learn Splunk, ingest sample data, etc. Includes the Machine Learning app.
 - [Grafana Playground](https://github.com/dmuth/grafana-playground) - Spin up a Grafana instance with Prometheus and Loki for testing quickly and painlessly.
 - [Cheetah Bot](https://github.com/dmuth/cheetah-bot) - A Telegram Bot that makes cheetah sounds and posts cheetah pictures!
