@@ -10,6 +10,7 @@ If you like my work, [please consider sponsoring me](https://github.com/sponsors
 Here are my more interesting projects that you may wish to check out:
 
 - [FastAPI Httpbin](https://github.com/dmuth/fastapi-httpbin) - HTTP endpoints for testing.  Heavily inspired by the original Httpbin project, with a few ideas of my own added in.  [Play with it here!](https://httpbin.dmuth.org/)
+- [Dead Simple QR Code Generator](https://httpbin.dmuth.org/qrcode/) - Part of my FastAPI Httpbin project. No ads. No signups. No spam. Just QR Codes when you want them.
 - [Splunk Lab](https://github.com/dmuth/splunk-lab) - Stand up Splunk in 30 seconds!  It's a great way to learn Splunk, ingest sample data, etc. Includes the Machine Learning app.
 - [Grafana Playground](https://github.com/dmuth/grafana-playground) - Spin up a Grafana instance with Prometheus and Loki for testing quickly and painlessly.
 - [Cheetah Bot](https://github.com/dmuth/cheetah-bot) - A Telegram Bot that makes cheetah sounds and posts cheetah pictures!
