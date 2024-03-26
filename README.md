@@ -10,7 +10,7 @@ If you like my work, [please consider sponsoring me](https://github.com/sponsors
 Here are my more interesting projects that you may wish to check out:
 
 - [PECO Outage Status](https://github.com/dmuth/peco-outage-status) - A script to get current power outage status from PECO
-- [Grafana Network Monitor](https://github.com/dmuth/grafana-network-monitor) - This is a quick and dirty collection of scripts and dashboards I built to monitor my home's Internet connectivity.
+- [Grafana Network Monitor](https://github.com/dmuth/grafana-network-monitor) - This is a quick and dirty collection of scripts and dashboards I built to monitor my home's Internet connectivity by pinging multiple hosts on the Internet.
 - [Docker in Vagrant](https://github.com/dmuth/docker-in-vagrant/tree/main) - As a Mac user, I wasn't happy with the desktop offerings of Docker that were available to me.  So I built my own using Virtualbox and Vagrant!
 - [FastAPI Httpbin](https://github.com/dmuth/fastapi-httpbin) - HTTP endpoints for testing.  Heavily inspired by the original Httpbin project, with a few ideas of my own added in.  [Play with it here!](https://httpbin.dmuth.org/)
 - [Dead Simple QR Code Generator](https://httpbin.dmuth.org/qrcode/) - Part of my FastAPI Httpbin project. No ads. No signups. No spam. Just QR Codes when you want them.
