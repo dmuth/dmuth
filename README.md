@@ -10,6 +10,7 @@ If you like my work, [please consider sponsoring me](https://github.com/sponsors
 Here are my more interesting projects that you may wish to check out:
 
 - [PECO Outage Status](https://github.com/dmuth/peco-outage-status) - A script to get current power outage status from PECO
+- [Docker image to extract sound files from Star Trek: The Next Generation: A Final Unity](https://github.com/dmuth/tng-a-final-unity-extract-audio) 
 - [Grafana Network Monitor](https://github.com/dmuth/grafana-network-monitor) - This is a quick and dirty collection of scripts and dashboards I built to monitor my home's Internet connectivity by pinging multiple hosts on the Internet.
 - [Docker in Vagrant](https://github.com/dmuth/docker-in-vagrant/tree/main) - As a Mac user, I wasn't happy with the desktop offerings of Docker that were available to me.  So I built my own using Virtualbox and Vagrant!
 - [FastAPI Httpbin](https://github.com/dmuth/fastapi-httpbin) - HTTP endpoints for testing.  Heavily inspired by the original Httpbin project, with a few ideas of my own added in.  [Play with it here!](https://httpbin.dmuth.org/)
