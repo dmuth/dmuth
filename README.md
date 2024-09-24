@@ -9,6 +9,7 @@ If you like my work, [please consider sponsoring me](https://github.com/sponsors
 
 Here are my more interesting projects that you may wish to check out:
 
+- [Facebook Javascript Toolbox](https://github.com/dmuth/facebook-javascript-toolbox) - Some Javascript utilities for Facebook groups I run that can be installed via Tampermonkey in Chrome.
 - [Is PECO Okay?](https://github.com/dmuth/is-peco-okay) - Text-based low-bandwidth website for real-time information on the Philadelphia Power Grid.  View on the web at [https://www.IsPecoOkay.com/](https://www.ispecookay.com/).
 - [Docker image to extract sound files from Star Trek: The Next Generation: A Final Unity](https://github.com/dmuth/tng-a-final-unity-extract-audio) 
 - [Grafana Network Monitor](https://github.com/dmuth/grafana-network-monitor) - This is a quick and dirty collection of scripts and dashboards I built to monitor my home's Internet connectivity by pinging multiple hosts on the Internet.
