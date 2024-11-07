@@ -61,11 +61,15 @@ Here are some of my repos that you may wish to check out:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dmuth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dmuth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dmuth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dmuth" height="30" width="40" /></a>
-<a href="https://fb.com/dmuth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dmuth" height="30" width="40" /></a>
-<a href="https://medium.com/@dmuth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dmuth" height="30" width="40" /></a>
-<a href="/https://www.dmuth.org/feed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://www.dmuth.org/feed/" height="30" width="40" /></a>
+
+
+<a href="https://bsky.app/profile/dmuth.bsky.social"><img align="center" src="https://cdn.simpleicons.org/bluesky" alt="dmuth" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dmuth" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="dmuth" height="30" width="40" /></a>
+<a href="https://fb.com/dmuth" target="blank"><img align="center" src="https://cdn.simpleicons.org/facebook" alt="dmuth" height="30" width="40" /></a>
+<a href="https://medium.com/@dmuth" target="blank"><img align="center" src="https://cdn.simpleicons.org/medium" alt="@dmuth" height="30" width="40" /></a>
+<a href="/https://www.dmuth.org/feed/" target="blank"><img align="center" src="https://cdn.simpleicons.org/rss" alt="https://www.dmuth.org/feed/" height="30" width="40" /></a>
+<a href="https://twitter.com/dmuth" target="blank"><img align="center" src="https://cdn.simpleicons.org/x" alt="Twitter" height="30" width="40" /></a>
+
 </p>
 
 <!--
