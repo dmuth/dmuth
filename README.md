@@ -62,7 +62,6 @@ Here are some of my repos that you may wish to check out:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-
 <a href="https://bsky.app/profile/dmuth.bsky.social"><img align="center" src="https://cdn.simpleicons.org/bluesky" alt="dmuth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dmuth" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="dmuth" height="30" width="40" /></a>
 <a href="https://fb.com/dmuth" target="blank"><img align="center" src="https://cdn.simpleicons.org/facebook" alt="dmuth" height="30" width="40" /></a>
@@ -72,7 +71,4 @@ Here are some of my repos that you may wish to check out:
 
 </p>
 
-<!--
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmuth" alt="dmuth" /></a>
--->
-
+Icons: [https://github.com/simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
