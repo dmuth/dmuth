@@ -56,7 +56,7 @@ Here are some of my repos that you may wish to check out:
 ### Misc
 
 - [Cheetah Bot](https://github.com/dmuth/cheetah-bot) - A Telegram Bot that makes cheetah sounds and posts cheetah pictures!
-
+- [Monte Carlo Pi Simulation in Rust](https://github.com/dmuth/monte-carlo-in-rust) - I wanted to learn a little Rust, so I built a multi-threaded Rust app to calculate the value of Pi using the Monte Carlo method.  [Benchmarks are here!](https://github.com/dmuth/monte-carlo-in-rust/blob/main/benchmarks.md)
 
 
 <h3 align="left">Connect with me:</h3>
