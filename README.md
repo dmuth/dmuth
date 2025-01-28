@@ -67,7 +67,6 @@ Here are some of my repos that you may wish to check out:
 <a href="https://fb.com/dmuth" target="blank"><img align="center" src="https://cdn.simpleicons.org/facebook" alt="dmuth" height="30" width="40" /></a>
 <a href="https://medium.com/@dmuth" target="blank"><img align="center" src="https://cdn.simpleicons.org/medium" alt="@dmuth" height="30" width="40" /></a>
 <a href="/https://www.dmuth.org/feed/" target="blank"><img align="center" src="https://cdn.simpleicons.org/rss" alt="https://www.dmuth.org/feed/" height="30" width="40" /></a>
-<a href="https://twitter.com/dmuth" target="blank"><img align="center" src="https://cdn.simpleicons.org/x" alt="Twitter" height="30" width="40" /></a>
 
 </p>
 
