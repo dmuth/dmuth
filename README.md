@@ -45,6 +45,7 @@ Here are some of my repos that you may wish to check out:
 - [SSH Principal and CA Playgroud](https://github.com/dmuth/ssh-principal-and-ca-playground) - Learn how SSH Principals and Certificate Authorities work in a Dockerized environment
 - [Learn "git rebase -i" with this lab/playground](https://github.com/dmuth/git-rebase-i-playground) - A tool I built to teach myself Interactive Rebasing in Git. Used for [the talk I give here.](https://docs.google.com/presentation/d/11_FkYuEFeRtqjRF_BVzsHYOH5b89Psn9phH5BLWrKV4/edit?usp=sharing)
   - [ZFS Playground](https://github.com/dmuth/zfs-playground) - Learn ZFS, the quick and easy way!
+- [Hashicorp Vault Playground](https://github.com/dmuth/vault-playground) - Something I created so that I could play around with Hashicorp Vault
 
 
 ### Documentation
